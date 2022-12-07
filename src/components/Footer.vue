@@ -9,7 +9,10 @@
 
     <p class="text-xs mt-2 pb-6">
       Code is open-source and can be found here:
-      <a href="https://github.com/" target="_blank" rel="nofollow"
+      <a
+        href="https://github.com/UsernameTaken4/QRCodeScanner"
+        target="_blank"
+        rel="nofollow"
         >https://github.com/</a
       >
     </p>
